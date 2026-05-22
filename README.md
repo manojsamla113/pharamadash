@@ -85,7 +85,7 @@ pharma_dash/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Manideep0704/pharma-dash.git
+git clone https://github.com/manojsamla113/pharma-dash.git
 cd pharma-dash
 ```
 
